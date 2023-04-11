@@ -1,0 +1,17 @@
+{
+    "name": "arthur/composer_2.1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur Gaychet",
+            "email": "arthur.gaychet81@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
